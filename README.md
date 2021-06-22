@@ -18,7 +18,7 @@ Software License:
 \
 \
 For commercial uses:
-- Email `medousa@medousa.net` and get supported.
+- If you need help, email `medousa@medousa.net` and get supported.
 \
 \
 \
