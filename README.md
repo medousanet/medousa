@@ -11,3 +11,8 @@ Software License:
 
 How to support medousa.net:
 - Email to make a donation to further support `medousa@medousa.net`.
+
+
+
+For commercial uses:
+- Email `medousa@medousa.net` and get supported.
