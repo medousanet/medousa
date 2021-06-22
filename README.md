@@ -9,7 +9,7 @@ Software License:
 - Do not decompile and modify the source code.
 
 
-How to support medousa.net:
+How to get an official version of `medousa`:
 - Email to make a donation to further support `medousa@medousa.net`.
 
 
