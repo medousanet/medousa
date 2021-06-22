@@ -5,18 +5,9 @@ This is the software version repository for medousa.net.
 
 
 Software License:
-- You can freely download and use any software in the repository for personal uses at your own risk.
-- You need a license from medousa.net to use the software for any kinds of commercial purposes.
-- You cannot decompile and modify the source code.
+- You can freely download and use any software in the repository for personal and commercial uses at your own risk.
+- Do not decompile and modify the source code.
 
 
-
-How to get a license from medousa.net:
-- Make a donation and support `medsousa.net` and get a-1-year license by emailing `medousa@medousa.net`.
-- Having a-1-year license only means that you can use it for your personal training, education, or teaching purposes but it does not mean commercial uses 
-  for businesses.
-
-
-
-How to use `medousa` for commercial purposes:
-- Email `medousa@medousa.net` and get supported.
+How to support medousa.net:
+- Email to make a donation to further support `medousa@medousa.net`.
