@@ -13,7 +13,7 @@ Software License:
 \
 \
 How to get an official version of `medousa`:
-- Make a domain to support `medousa.net` and email `medousa@medousa.net` to get a licensed copy of `medsousa`.
+- Make a domain to support `medousa.net` at https://toon.at/donate/637413907797802062 and email `medousa@medousa.net` to get a licensed copy of `medsousa`.
 - The domain amount is not stricted to a certain amount. It is a donation that you can pay.
 \
 \
