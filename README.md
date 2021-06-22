@@ -1,12 +1,11 @@
 # medousa
 This is the software version repository for medousa.net.
-- All the software in the list are written in Java and can run independently of any platforms.
+- All the software in the repository are written in Java and can run independently of any platforms.
 - You need JDK 1.8 or 1.9 installed on your computer.[OpenJDK 1.8 Download Link: https://github.com/ojdkbuild/ojdkbuild]
 
 
-
 Software License:
-- You can freely download and use any software in the list for personal uses at your own risk.
+- You can freely download and use any software in the repository for personal uses at your own risk.
 - You need a license from medousa.net to use the software for any kinds of commercial purposes.
 - You cannot decompile and modify the source code.
 
