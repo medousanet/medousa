@@ -7,7 +7,7 @@ This is the software version repository for medousa.net.
 \
 \
 How to use the trial software:
-- Watch videos for details at https://www.youtube.com/watch?v=FprFBhan190&list=PL2WU1RpBGzxOH6GMTKOzAYo2uwjEzETjA
+- Watch videos for how to use it at https://www.youtube.com/watch?v=FprFBhan190&list=PL2WU1RpBGzxOH6GMTKOzAYo2uwjEzETjA
 \
 \
 \
