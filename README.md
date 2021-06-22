@@ -6,7 +6,6 @@ This is the software version repository for medousa.net.\
 \
 \
 \
-/
 Software License:
 - You can freely download and use any software in the repository for personal and commercial uses at your own risk.
 - Do not decompile and modify the application.
