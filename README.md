@@ -12,12 +12,10 @@ Software License:
 \
 \
 \
-
 How to get an official version of `medousa`:
 - Email `medousa@medousa.net` to get a license.
 \
 \
 \
-
 For commercial uses:
 - Email `medousa@medousa.net` and get supported.
